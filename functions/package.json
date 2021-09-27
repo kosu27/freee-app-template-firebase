@@ -23,7 +23,7 @@
     "date-fns-timezone": "^0.1.4",
     "express": "4.17.1",
     "firebase-admin": "8.13.0",
-    "firebase-functions": "3.2.0",
+    "firebase-functions": "^3.15.7",
     "freee-firebase-sdk": "2.0.4"
   },
   "devDependencies": {
